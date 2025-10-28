@@ -1,7 +1,7 @@
 
 ## Banking Management System
 
-Banking Management System is a comprehensive banking information system that implements all essential features and functionalities for modern financial and savings institutions. Created and customized for professional banking operations.
+Bankora an information System, which implements most of all basic features and functionalities thus will helping in elimination of day to day madness in these financial and savings corporations.
 
 ## Deployment
 1. Clone the repo or download as a zip<br>
