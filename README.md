@@ -34,6 +34,3 @@ Bankora an information System, which implements most of all basic features and f
 - Loan Management
 - System Settings
 
-## License
-
-The Banking Management System is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
